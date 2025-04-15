@@ -1,11 +1,7 @@
-# subglassesweb
-English
-This page is a YouTube channel
-Megane's Live and Singing Channel's official website.
-
-Website production: ©WEB Production Section, Video Technology Research Department, TNK Metropolitan Area Video Section
+# Super-Glassesweb
 日本語
-このページは、YouTubeチャンネルの
-メガネのLIVE・歌ってみたチャンネルの公式サイトです。
-
-WEBサイト制作：©TNK首都圏動画係動画技術研究部WEB制作課
+このgithubのリポジトリでは、YoutubeのWEBサイトとして使用しています。
+コードを許可なく使用することは、お控えください。
+English
+This github repository is used as a YouTube website.
+Please refrain from using the code without permission.
