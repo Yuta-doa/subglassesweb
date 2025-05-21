@@ -1,4 +1,4 @@
-# Super-Glassesweb
+# subglassesweb
 日本語
 このgithubのリポジトリでは、YoutubeのWEBサイトとして使用しています。
 コードを許可なく使用することは、お控えください。
